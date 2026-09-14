@@ -6,7 +6,9 @@
 // @author       Kenjiru
 // @require      https://raw.githubusercontent.com/uzairfarooq/arrive/master/minified/arrive.min.js
 // @match        https://www.amazon.de/*/wishlist/genericItemsPage*
-// @match        https://www.amazon.de/*/en/dp*
+// @match        https://www.amazon.de/-/en/hz/wishlist/ls/*
+// @match        https://www.amazon.de/*/wishlist/ls/*
+// @match        https://www.amazon.de/*/en/*
 // @license       MIT
 // @license       GPL-3.0-or-later
 // @grant        none
